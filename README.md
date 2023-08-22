@@ -7,12 +7,12 @@
   <a target="_blank" href="https://www.linkedin.com/in/vanessametonini/">Vanessa Me Tonini</a>.
 </p>
 
-![Badge](https://img.shields.io/github/last-commit/Epiled/Spotify?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/Spotify?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/count/Epiled/Spotify?style=for-the-badge)
+![Badge](https://img.shields.io/github/last-commit/Epiled/alura-midi?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-midi?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/count/Epiled/alura-midi?style=for-the-badge)
 ![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
-![Bagde](https://img.shields.io/github/v/release/epiled/Spotify?style=for-the-badge)
-![Bagde](https://img.shields.io/github/license/Epiled/Spotify?style=for-the-badge)
+![Bagde](https://img.shields.io/github/v/release/epiled/alura-midi?style=for-the-badge)
+![Bagde](https://img.shields.io/github/license/Epiled/alura-midi?style=for-the-badge)
 
 ![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>Alura Midi: <a href="epiled.github.io/spotify/">epiled.github.io/spotify/</a></p>
+<p>Alura Midi: <a href="epiled.github.io/alura-midi/">epiled.github.io/alura-midi/</a></p>
 
 ![alura-midi-desktop (1)](https://github.com/Epiled/Alura-Midi----JavaScript-para-Web-Crie-p-ginas-din-micas/assets/55258483/6232d3c2-248a-49c3-b611-c6a29693054d)
 ![alura-midi-mobile](https://github.com/Epiled/Alura-Midi----JavaScript-para-Web-Crie-p-ginas-din-micas/assets/55258483/7e7b8476-5e95-43e2-81b2-f4d5fc5867fa)
@@ -53,8 +53,8 @@
 <h2 id="instalacao"> ⚙ Instalação </h2>
 
 ```
-1. git clone https://github.com/Epiled/Spotify.git
-2. cd Spotify
+1. git clone https://github.com/Epiled/alura-midi.git
+2. cd alura-midi
 ```
 
 <h2 id="como-usar"> 👩‍🏫 Como usar </h2>
