@@ -45,7 +45,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>Alura Midi: <a href="epiled.github.io/alura-midi/">epiled.github.io/alura-midi/</a></p>
+<p>Alura Midi: <a href="https://epiled.github.io/alura-midi/">epiled.github.io/alura-midi/</a></p>
 
 ![alura-midi-desktop (1)](https://github.com/Epiled/Alura-Midi----JavaScript-para-Web-Crie-p-ginas-din-micas/assets/55258483/6232d3c2-248a-49c3-b611-c6a29693054d)
 ![alura-midi-mobile](https://github.com/Epiled/Alura-Midi----JavaScript-para-Web-Crie-p-ginas-din-micas/assets/55258483/7e7b8476-5e95-43e2-81b2-f4d5fc5867fa)
